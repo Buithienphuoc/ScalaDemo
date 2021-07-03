@@ -1,3 +1,7 @@
+package demo
+
+import demo.champion.Champion
+
 import java.util
 
 object Demo {
